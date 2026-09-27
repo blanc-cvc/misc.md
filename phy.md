@@ -39,6 +39,21 @@ Ce tableau présente le bilan mécanique brut du système. Il montre comment la 
 
 
 
+### Observation ?
+
+Image de ballon en expansion,
+
+Einstein : point de vue au centre du ballon (droite).
+
+Galilee : point de vue circonférence (courbe réelle?).
+
+Les deux semblent cohérents, mais avec le calcul d'einstein on se retrouve avec un facteur d'expansion relatif à la vitesse des masses.
+
+
+---
+
+
+
 ### Einstein
 
 Pourquoi utiliser $c$ dans un calcul si éventuellement on n'utilise pas d'optique. Ou seulement pour imposer une limite.
