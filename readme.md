@@ -79,3 +79,8 @@ La masse est le reflet direct de la tension accumulée dans les plis de cet enro
 
 
 
+#### 9. Maillage par flux photonique
+
+Les flux de photons pourraient être massiques.
+
+La matière pourrait avoir tendance à investir (s'équilibrer sur) ces flux en "priorité".
