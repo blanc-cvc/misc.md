@@ -11,11 +11,11 @@
 ## Tore à flux continu
 
 
-L'espace lui-même ne grandit pas, mais il est traversé par un flux perpétuel de matière (gaz, plasma).
+L'espace lui-même ne grandit pas, mais il est traversé par un flux perpétuel d'énergie.
 
 
 
-Nord vers sud ou sud vers nord peu importe.
+*Nord vers sud ou sud vers nord peu importe.*
 
 
 
@@ -49,8 +49,6 @@ Le plasma++ hyper-comprimé engouffré dans le pôle sud est aspiré à travers 
 
 
 
-
-
 #### 6. Le mirage de l'expansion accélérée par effet de biais
 
 L’expansion de l’univers n'est pas le gonflement physique d’un espace vide. C'est un mirage optique et géométrique imposé par la forme du tore.
@@ -64,3 +62,20 @@ L’expansion de l’univers n'est pas le gonflement physique d’un espace vide
 <ins>Plus la masse descend (jusqu'au médian), plus l'ouverture de la géométrie fait exploser la distance horizontale.</ins>
 
 *Ça explique pourquoi on a l'impression que "l'expansion" peut aller plus vite que c et en plus s'additionner.*
+
+
+
+#### 7. Le "photon", la pseudo-particule élémentaire
+
+La lumière qui file droit (photon), l'enroulement calme et figé (électron), ou la tempête full instable qui crée une force de dingue (quarks) — n'est qu'un jeu de géométrie et d'agitation différents tous constitués de "photons" (collision/amas) <ins>ayant trouvé l'équilibre persistant</ins>.
+
+
+
+#### 8. La masse, c'est une "accumulation de tension"
+
+Une pseudo-particule (comme l'électron ou le quark) n'est pas un grain solide inerte. C'est un enroulement d'énergie "3D" dynamique.
+
+La masse est le reflet direct de la tension accumulée dans les plis de cet enroulement. Tant que l'enroulement maintient son point d'équilibre parfait (le min/max équivalent) entre son centre et son extrémité, la masse reste stable et fixe. Delta vitesse centre/ext.
+
+
+
