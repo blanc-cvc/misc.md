@@ -46,3 +46,21 @@ Passé le milieu, la géométrie du tore force les lignes de courant à converge
 #### 5. Le coeur du tore : Le recyclage cosmique
 
 Le plasma++ hyper-comprimé engouffré dans le pôle sud est aspiré à travers le tunnel central du tore. Il est ainsi "recyclé" et renvoyé directement vers le pôle nord pour alimenter à nouveau le spray originel. Le temps et la matière ne meurent jamais : ils circulent dans une boucle éternelle.
+
+
+
+
+
+#### 6. Le mirage de l'expansion accélérée par effet de biais
+
+L’expansion de l’univers n'est pas le gonflement physique d’un espace vide. C'est un mirage optique et géométrique imposé par la forme du tore.
+
+• Les rails de biais : Du pôle nord vers l’équateur, le volume du tore s’évase. Les lignes de flux sur lesquelles se déplacent les masses et la lumière fonctionnent comme des rails invisibles qui s'ouvrent naturellement en éventail.
+
+• Si deux masses descendent le long de ces rails de biais à l’opposé de nous, la distance horizontale qui les sépare augmente de façon purement géométrique.
+
+• La vitesse de déplacement des masses le long du flux dicte directement le rythme de leur éloignement. Si elles descendent lentement (vitesse tortue), l'écartement horizontal est minime. Mais si elles accélèrent sur leur trajectoire, la distance horizontale qui les sépare s'ouvre à toute vitesse.
+
+<ins>Plus la masse descend (jusqu'au médian), plus l'ouverture de la géométrie fait exploser la distance horizontale.</ins>
+
+*Ça explique pourquoi on a l'impression que "l'expansion" peut aller plus vite que c et en plus s'additionner.*
