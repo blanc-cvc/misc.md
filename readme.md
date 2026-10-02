@@ -7,6 +7,7 @@
 
 # PHY
 
+![Texte alternatif](https://raw.githubusercontent.com/blanc-cvc/misc.md/refs/heads/main/tore.jpeg)
 
 ## Tore à flux continu
 
@@ -65,7 +66,7 @@ L’expansion de l’univers n'est pas le gonflement physique d’un espace vide
 
 
 
-#### 7. Le "photon", la pseudo-particule élémentaire
+#### 7. Le ""photon"", la pseudo-particule élémentaire (<ins>énergie pure plasma</ins>)
 
 La lumière qui file droit (photon), l'enroulement calme et figé (électron), ou la tempête full instable qui crée une force de dingue (quarks) — n'est qu'un jeu de géométrie et d'agitation différents tous constitués de "photons" (collision/amas) <ins>ayant trouvé l'équilibre persistant</ins>.
 
