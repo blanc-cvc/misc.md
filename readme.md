@@ -85,3 +85,11 @@ La masse est le reflet direct de la tension accumulée dans les plis de cet enro
 Les flux de photons pourraient être massiques.
 
 La matière pourrait avoir tendance à investir (s'équilibrer sur) ces flux en "priorité".
+
+
+
+#### 10. Le trou noir objectif
+
+Le trou noir n'existe pas en tant qu'objet ou trou réel : il est le résultat d'une accumulation de matière qui s'organise en "dansant". Après plusieurs essais et collisions chaotiques, cette danse peut devenir "parfaitement" circulaire. Une fois que cette danse de matière devient circulaire et "parfaite", elle parvient à se resserrer sous l'effet de sa propre gravité pour accélérer jusqu'à frôler la vitesse de la lumière, engendrant ainsi tous les effets que nous observons. <ins>Rien ne rentre, tout est expulsé ou dévié</ins>.
+
+Si le maillage énergétique ("flux photonique" origine "Big Bang") se déploie à une vitesse proche de celle de la lumière, il est logiquement impossible qu’une perturbation géométrique/énergétique pure reste stable et "immobile" dans notre référentiel. Pour qu'une telle distorsion persiste sur place et se déplace "avec nous", il faut impérativement qu’un résidu de matière physique agisse comme point d'ancrage. <ins>Sans cette présence matérielle, la perturbation serait inévitablement emportée par le flux du maillage à la vitesse approximative de c</ins>.
