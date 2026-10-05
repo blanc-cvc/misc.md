@@ -93,3 +93,22 @@ La matière pourrait avoir tendance à investir (s'équilibrer sur) ces flux en 
 Le trou noir n'existe pas en tant qu'objet ou trou réel : il est le résultat d'une accumulation de matière qui s'organise en "dansant". Après plusieurs essais et collisions chaotiques, cette danse peut devenir "parfaitement" circulaire. Une fois que cette danse de matière devient circulaire et "parfaite", elle parvient à se resserrer sous l'effet de sa propre gravité pour accélérer jusqu'à frôler la vitesse de la lumière, engendrant ainsi tous les effets que nous observons. <ins>Rien ne rentre, tout est expulsé ou dévié</ins>.
 
 Si le maillage énergétique ("flux photonique" origine "Big Bang") se déploie à une vitesse proche de celle de la lumière, il est logiquement impossible qu’une perturbation géométrique/énergétique pure reste stable et "immobile" dans notre référentiel. Pour qu'une telle distorsion persiste sur place et se déplace "avec nous", il faut impérativement qu’un résidu de matière physique agisse comme point d'ancrage. <ins>Sans cette présence matérielle, la perturbation serait inévitablement emportée par le flux du maillage à la vitesse approximative de c</ins>.
+
+
+
+#### 11. L'interface de l'atome
+
+Un atome subit des déséquilibres : le choc pour l'exciter est "immédiat", alors qu'il met beaucoup plus de temps à se désexciter. À cause de ce retard, la sortie ne correspond plus du tout à l'entrée. On peut alors légitimement se demander si l'égalité parfaite que l'on voit dans les revues scientifiques n'existe pas uniquement dans le cadre artificiel des laboratoires, parce que les chercheurs règlent leurs machines pour trouver précisément le résultat recherché. En dehors des laboratoires, les atomes ne sont pas seuls mais forment une immensité de population. Bien entendu, chaque atome garde individuellement ses propres spectres de retransmission, mais ils sont noyés dans la masse. Constamment secoués et bombardés de tous les côtés, ils mélangent leurs énergies. <ins>À eux tous, ils finissent par balayer tout le spectre</ins>, aux récepteurs (radio par exemple) de chercher les bons patterns, lisser et combler.
+
+
+
+#### 12. Stérilité de la stagnation et fertilité de l'amplitude
+
+Point de vu magnétique et atomique : La force globale n’est pas une moyenne immobile. Si le "balancier" restait figé au milieu, la tension stagnerait. C'est l'amplitude du va-et-vient qui dicte la force.
+
+Point de vu global : La force globale (gravitationnelle, magnétique ou énergétique) n’est jamais une moyenne immobile ou une valeur fixe. Si les flux de pression, de température et d'énergie restaient figés et statiques autour de la matière, la tension s'annulerait et le système deviendrait stérile. C'est l'amplitude des fluctuations, des cycles d'échanges thermiques et des perturbations mécaniques entre la matière et le milieu qui dicte l'intensité de la force.
+
+<ins>Un champ est le résultat d'une dynamique</ins>.
+
+
+<img src="https://raw.githubusercontent.com/blanc-cvc/misc.md/refs/heads/main/relations.png" alt="Texte alternatif" width="400">
