@@ -112,3 +112,19 @@ Point de vu global : La force globale (gravitationnelle, magnétique ou énergé
 
 
 <img src="https://raw.githubusercontent.com/blanc-cvc/misc.md/refs/heads/main/relations.png" alt="Texte alternatif" width="400">
+
+
+
+#### 13. La géométrie sacrée de l'atome
+
+La matière ne naît pas du hasard. Le nombre de protons et la taille du noyau ne sont pas de simples chiffres : ils sculptent, dans le vide de l'atome, la forme et l'espace des nuages d'électrons. Le noyau est un sculpteur invisible ; la géométrie électronique est son oeuvre.
+
+
+
+#### 14. Le métal fantastique
+
+Le métal naît de l'harmonie d'un déséquilibre. <ins>Le métal s'autosuffit</ins> : l'union de ses propres "manques" crée sa propre stabilité.
+
+• Lorsque cette grille de noyaux impose une symétrie "parfaite", le "fluide" électronique y est presque statique, presque figé dans une perfection presque immobile où aucun accord global ne peut s'établir.
+
+• <ins>Mais lorsque le noyau engendre une géométrie orientable</ins> (*les atomes ne se retourne pas, ils ont une tendance fortement orientée, animé d'un va-et-vient de distances aléatoires*), elle offre alors au "fluide" une direction. À l'échelle du tout, la polarisation est une invitation à s'aligner au flux. En projetant l'harmonie de sa structure à travers l'espace, elle offre au monde environnant des perspectives d'alignement. Ce mouvement n'est pas isolé : chaque balancier est influencé mutuellement par ses voisins. Ils s'ajustent et se synchronisent de proche en proche. La tendance est partagée et forme un effet de sillage et "d'aspiration" permanent. En traversant la grille, chaque atome est invité à reconfigurer instantanément son orientation spatiale et à synchroniser son balancier sur celui des autres. <ins>C'est ce "tassement vibratoire", cet accord géométrique forcé</ins>, qui donne naissance à la polarisation et au vecteur de force magnétique.
