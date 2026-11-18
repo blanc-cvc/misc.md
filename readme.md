@@ -131,4 +131,4 @@ Le métal naît de l'harmonie d'un déséquilibre. <ins>Le métal s'autosuffit</
 
 
 
-![Texte alternatif](https://raw.githubusercontent.com/blanc-cvc/misc.md/refs/heads/main/bigboung.jpg)
+![Texte alternatif](https://raw.githubusercontent.com/blanc-cvc/misc.md/refs/heads/main/Bigboung.jpg)
